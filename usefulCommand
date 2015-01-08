@@ -1,0 +1,3 @@
+#find a line inside any file of the directory (includes subdirectory)
+grep -RnisI <pattern> *
+
