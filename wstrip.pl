@@ -1,4 +1,5 @@
 #!/usr/local/bin/perl
+# err... forgot from whom the inial script was (sorry) 
 
 #define function
 sub strip {
